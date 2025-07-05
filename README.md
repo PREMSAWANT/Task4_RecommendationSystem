@@ -115,7 +115,7 @@ Try running the program with multiple users to simulate a real recommendation sc
 
 📦 Sample Output:
 
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d2e87eb8-f3cb-4d45-805e-bcea6f18b8fc" />
 
 Sample recommendation:
 
